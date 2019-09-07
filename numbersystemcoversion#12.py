@@ -10,7 +10,7 @@ print(0b0101)
 print(oct(25))
 
 #convert oxtal to decimal
-print(031)
+#print(031)
 
 #convert decimal to hex
 print(hex(25))
